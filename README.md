@@ -1,3 +1,3 @@
 # example_leaflet
 
-gitのテスト
+leafletの利用例
